@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "schemaVersion": "1.0",
+    "importType": "LEX",
+    "importFormat": "JSON"
+  },
+  "resource": {
+    "description": "Level of Risk",
+    "name": "riskLevel",
+    "version": "2",
+    "enumerationValues": [
+      {
+        "value": "High"
+      },
+      {
+        "value": "Very Low"
+      },
+      {
+        "value": "Low"
+      },
+      {
+        "value": "Very High"
+      },
+      {
+        "value": "Medium"
+      },
+      {
+        "value": "None"
+      }
+    ],
+    "valueSelectionStrategy": "ORIGINAL_VALUE"
+  }
+}
