@@ -6,4 +6,4 @@
 ### Functionality
 I built a robo advisor that when prompted about retirement investment advice, collects basic demographic information such as the user's name, age, investment principal, and risk tolerance, and then provides a protfolio composition that is suited to their needs. The program is built on Amazon's Lex platform and also utilizes a custom AWS Lambda function to verify age and investment range, and correctly match the portfolio with the user's risk appetite. 
 
-I've included a short video of the robo advisor in action, helping a user named Max. 
+I've included a short video of the robo advisor in action, helping a user named 25 year old user, Max who has $10,000 to invest with a high risk appetite. 
